@@ -14,8 +14,8 @@ change_rainbow_colors
 
 def add_colors
   rainbow_colors = ["yellow", "default", "light_cyan"]
-  puts rainbow_colors.insert(3,"green")
-  puts rainbow_colors.insert(4,"blue")
-
+  rainbow_colors.insert(3,"green")
+  rainbow_colors.insert(4,"blue")
+  puts rainbow_colors
 end
 add_colors
