@@ -12,9 +12,8 @@ end
 change_rainbow_colors
 
 def add_colors
-  puts room.insert(3,"green")
-  puts room.insert(4,"blue")
+  puts rainbow_colors.insert(3,"green")
+  puts rainbow_colors.insert(4,"blue")
 
 end
 add_colors
-
