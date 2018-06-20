@@ -18,4 +18,4 @@ def add_colors
   rainbow_colors.insert(4,"blue")
   puts rainbow_colors
 end
-add_colors
+#add_colors
